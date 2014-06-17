@@ -4,8 +4,8 @@
 package assignments.java.hw1;
 
 /**
- * @author ld80335
- *
+ *@author Logesh Duraisamy
+ *@version 1.0
  */
 public class PizzaShop {
 
