@@ -4,16 +4,23 @@
 package assignments.java.hw1;
 
 /**
- *@author Logesh Duraisamy
- *@version 1.0
+ * 
+ * PizzaShop.java
+ * 
+ * @author Logesh Duraisamy
+ * 
+ * @version 1.0
  */
+
 public class PizzaShop {
 
 	/**
-	 * @param args
+	 * 
+	 * This method will print a string 'welcome to pizza shop' on the standard output
+	 * @param args command line arguments
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		System.out.println("welcome to pizza shop");
 
 	}
 
